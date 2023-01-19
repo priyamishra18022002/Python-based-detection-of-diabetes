@@ -1,1 +1,1 @@
-# Python-based-detection-of-sentiments
+# Diabetes-Prediction
